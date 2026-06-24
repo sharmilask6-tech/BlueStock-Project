@@ -1,0 +1,20 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+requests
+Jupyter
+
+
+| Library    | Purpose                                             |
+| ---------- | --------------------------------------------------- |
+| pandas     | Read, clean, analyze CSV data                       |
+| numpy      | Numerical calculations and arrays                   |
+| matplotlib | Basic data visualization and charts                 |
+| seaborn    | Advanced statistical visualizations                 |
+| plotly     | Interactive dashboards and charts                   |
+| sqlalchemy | Connect Python with databases (MySQL, SQLite, etc.) |
+| requests   | Fetch data from APIs such as mfapi.in               |
+| jupyter    | Run notebooks for EDA and analysis                  |
